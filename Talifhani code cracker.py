@@ -20,9 +20,8 @@ st.subheader("Pharmacology And Therapeutics")
      # from a local file
     
 image="My AI IMAGE.png"
-st.image("My AI IMAGE.png"
+st.image("My AI IMAGE.png")
     
-)
    
 st.title("Talifhani Rerani")
 st.subheader("Research Scientist | MSc Pharmacology")
